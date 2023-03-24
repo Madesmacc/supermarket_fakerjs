@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "mysql": "^2.18.1"
+  }
+}
